@@ -1,4 +1,4 @@
-### Truce Audio projects
+### Projects
 
 #### Rust
 
