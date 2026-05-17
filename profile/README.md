@@ -13,4 +13,4 @@
 
 #### Documentation
 
-- https://truce.audio/: https://github.com/truce-audio/truce-website
+- Website: https://github.com/truce-audio/truce-website
