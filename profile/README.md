@@ -14,3 +14,11 @@
 #### Documentation
 
 - Website: https://github.com/truce-audio/truce-website
+
+#### Truce Audio Plugins 
+
+These plugins are designed to be educational, and they secondarily serve as test cases for Truce. They work, but they're not meant to be production-grade plugins. 
+
+- [Truce in-repo examples](https://github.com/truce-audio/truce/tree/main/examples): 15+ simple examples that ship with the truce framework
+- [Truce Analyzer](https://github.com/truce-audio/truce-analyzer): for reverse engineering plugins, demo for custom UI
+- [Reiss-McPherson Audio Effects](https://github.com/truce-audio/reiss-mcpherson-effects): Rust (+ truce) port of juandagilc/Audio-Effects: Collection of audio effects plugins implemented from the explanations in the book "Audio Effects: Theory, Implementation and Application" by Joshua D. Reiss and Andrew P. McPherson
